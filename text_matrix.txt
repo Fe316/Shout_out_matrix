@@ -1,0 +1,12 @@
+Whake up, Neo...
+The Matrix has you...
+If you need a pass to be free... You are not
+;
+
+
+ ***************************************************
+LASCIARE ALMENO UNO SPAZIO TRA SOPRA E QUESTO TESTO
+ ***************************************************
+- Il programma legge una riga alla volta
+- Stampa a schermo lettera per lettera
+- Interrompe quando trova il carattere ";"
